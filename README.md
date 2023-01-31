@@ -6,7 +6,7 @@
    picture 3 ![image](https://user-images.githubusercontent.com/109519914/211206230-ae6ccee5-527a-4394-8cdb-aa6ddd444478.png)
  
 installation:
-    Download the FlappyBlocks archive.zip  
+    Download the FlappyBlocks archive.zip   
     Import it into the development environment 
     Run the main class
     In the login field, enter the data: login: 1; password 1.
