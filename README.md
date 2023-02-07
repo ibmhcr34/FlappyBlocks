@@ -8,6 +8,6 @@
 installation:
     Download the FlappyBlocks archive.zip
     Import it into the development environment
-    Run the main class
+    Run the main class 
     In the login field, enter the data: login: 1; password 1.
 *Happy use*
